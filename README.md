@@ -1,0 +1,1 @@
+# front-manga-man-ssr
