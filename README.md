@@ -1,1 +1,2 @@
-# front-manga-man-ssr
+# mangaman-ssr
+Mangaman pero ahora con SSR
